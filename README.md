@@ -41,7 +41,7 @@ Project Structure
 Setup and Usage
 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/assistant_project.git
+git clone https://github.com/Ankith51/Ai_user_assistant.git
 cd assistant_project
 ```
 
